@@ -1,0 +1,3 @@
+[submodule "github-profile-viewer"]
+    path = github-profile-viewer
+    url = git@github.com:eddowh/react-github-profile-viewer.git
