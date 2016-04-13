@@ -1,3 +1,7 @@
 [submodule "github-profile-viewer"]
     path = github-profile-viewer
     url = git@github.com:eddowh/react-github-profile-viewer.git
+
+[submodule "quick-quiz-app"]
+    path = quick-quiz-app
+    url = git@github.com:eddowh/react-quick-quiz-app.git
