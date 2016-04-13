@@ -6,4 +6,4 @@ All content under the courtesy of [Eduonix](https://www.eduonix.com/)'s Udemy co
 
 # Table of Contents
 
-1. [**GitHub Profile Viewer**](./github-profile-viewer): fetch and display a GitHub user info [Bootstrap + jQuery + AJAX]
+1. [**GitHub Profile Viewer**](https://github.com/eddowh/react-github-profile-viewer/tree/master): fetch and display a GitHub user info [Bootstrap + jQuery + AJAX]
