@@ -6,4 +6,6 @@ All content under the courtesy of [Eduonix](https://www.eduonix.com/)'s Udemy co
 
 # Table of Contents
 
-1. [**GitHub Profile Viewer**](https://github.com/eddowh/react-github-profile-viewer/tree/master): fetch and display a GitHub user info [Bootstrap + jQuery + AJAX]
+1. [**GitHub Profile Viewer**](https://github.com/eddowh/react-github-profile-viewer/tree/master): fetch and display a GitHub user info [Webpack + ES6 + Bootstrap + jQuery + AJAX]
+2. [**Quick Quiz App**](https://github.com/eddowh/react-quick-quiz-app/tree/master): simple multiple-choice quiz app that displays score upon completion [Webpack + ES6 + Bootstrap]
+3. [**Moviefind**](https://github.com/eddowh/react-moviefind/tree/master): fetches movie data via the OMDb API and displays info [Browserify + Gulp + JSX + Bootstrap + jQuery + AJAX + Flux + OMDb API]
