@@ -2,7 +2,7 @@
   "name": "TODO",
   "version": "0.0.0",
   "description": "TODO",
-  "main": "index.jsx",
+  "main": "main.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
