@@ -1,3 +1,7 @@
+[submodule "contact-list"]
+    path = contact-list
+    url = git@github.com:eddowh/react-contact-list.git
+
 [submodule "github-profile-viewer"]
     path = github-profile-viewer
     url = git@github.com:eddowh/react-github-profile-viewer.git
