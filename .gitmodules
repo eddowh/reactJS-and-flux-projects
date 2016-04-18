@@ -13,3 +13,7 @@
 [submodule "quick-quiz-app"]
     path = quick-quiz-app
     url = git@github.com:eddowh/react-quick-quiz-app.git
+
+[submodule "stickypad-notes"]
+	path = stickypad-notes
+	url = git@github.com:eddowh/react-stickypad-notes.git
