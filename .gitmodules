@@ -6,6 +6,10 @@
     path = github-profile-viewer
     url = git@github.com:eddowh/react-github-profile-viewer.git
 
+[submodule "infofinder-search-engine"]
+    path = infofinder-search-engine
+    url = git@github.com:eddowh/react-infofinder-search-engine.git
+
 [submodule "moviefind"]
     path = moviefind
     url = git@github.com:eddowh/react-moviefind.git
@@ -15,5 +19,5 @@
     url = git@github.com:eddowh/react-quick-quiz-app.git
 
 [submodule "stickypad-notes"]
-	path = stickypad-notes
-	url = git@github.com:eddowh/react-stickypad-notes.git
+    path = stickypad-notes
+    url = git@github.com:eddowh/react-stickypad-notes.git
