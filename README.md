@@ -12,3 +12,4 @@ All content under the courtesy of [Eduonix](https://www.eduonix.com/)'s Udemy co
 4. [**Contact List**](https://github.com/eddowh/react-contact-list/tree/master): contact list app with persistent storage functionality via Firebase [Browserify + Gulp + JSX + Bootstrap + Flux + Firebase]
 5. [**Stickypad Notes**](https://github.com/eddowh/react-stickypad-notes/tree/master): stickypad notes app with persistent storage functionality via MongoLab [Browserify + Gulp + JSX + Foundation + Flux + MongoLab]
 6. [**InfoFinder Search Engine**](https://github.com/eddowh/react-infofinder-search-engine/tree/master): aggregates Duckduckgo's search engine results [Browserify + Gulp + JSX + Bootstrap + Flux + Duckduckgo API]
+7. [**Youtube Gallery**](https://github.com/eddowh/react-youtube-gallery/tree/master): displays and embeds youtube links, with persistent storage functionality via Firebase [Browserify + Gulp + JSX + Zimit + Flux]

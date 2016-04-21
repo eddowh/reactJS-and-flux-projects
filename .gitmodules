@@ -21,3 +21,7 @@
 [submodule "stickypad-notes"]
     path = stickypad-notes
     url = git@github.com:eddowh/react-stickypad-notes.git
+
+[submodule "youtube-gallery"]
+    path = youtube-gallery
+    url = git@github.com:eddowh/react-youtube-gallery.git
