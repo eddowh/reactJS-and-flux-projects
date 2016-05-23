@@ -25,3 +25,7 @@
 [submodule "youtube-gallery"]
     path = youtube-gallery
     url = git@github.com:eddowh/react-youtube-gallery.git
+
+[submodule "sockchat"]
+    path = sockchat
+    url = git@github.com:eddowh/react-sockchat.git
